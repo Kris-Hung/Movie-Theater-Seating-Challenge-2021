@@ -1,5 +1,6 @@
 # Movie-Theater-Seating-Challenge-2021
 
+
 ## Overview
 Fulfill booking requests given from an input file, and assign seats in a 10 rows x 20 seats movie theater.
 Maximize both customer satisfication and safety (three buffer seats is required).
