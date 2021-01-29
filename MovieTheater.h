@@ -21,7 +21,6 @@ public:
     MovieTheater(int rows, int seats, int buffer);
     void generateOrder();
     void safetyRow(Row& row);
-    void dfsHelper(int i, int j, int count);
     bool assignFullRow(int orderIdx, Booking& b);
     bool assignPartialRow(int orderIdx, Booking& b);
     void seatsAssignments(vector<Booking>& bookings);
